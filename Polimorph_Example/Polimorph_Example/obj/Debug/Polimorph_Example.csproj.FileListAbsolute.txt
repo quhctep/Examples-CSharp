@@ -1,0 +1,7 @@
+c:\users\quhct\documents\visual studio 2017\Projects\Polimorph_Example\Polimorph_Example\bin\Debug\Polimorph_Example.exe.config
+c:\users\quhct\documents\visual studio 2017\Projects\Polimorph_Example\Polimorph_Example\bin\Debug\Polimorph_Example.exe
+c:\users\quhct\documents\visual studio 2017\Projects\Polimorph_Example\Polimorph_Example\bin\Debug\Polimorph_Example.pdb
+c:\users\quhct\documents\visual studio 2017\Projects\Polimorph_Example\Polimorph_Example\obj\Debug\Polimorph_Example.csprojResolveAssemblyReference.cache
+c:\users\quhct\documents\visual studio 2017\Projects\Polimorph_Example\Polimorph_Example\obj\Debug\Polimorph_Example.csproj.CoreCompileInputs.cache
+c:\users\quhct\documents\visual studio 2017\Projects\Polimorph_Example\Polimorph_Example\obj\Debug\Polimorph_Example.exe
+c:\users\quhct\documents\visual studio 2017\Projects\Polimorph_Example\Polimorph_Example\obj\Debug\Polimorph_Example.pdb

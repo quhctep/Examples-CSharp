@@ -1,0 +1,7 @@
+c:\users\quhct\documents\visual studio 2017\Projects\Interfaces_Example\Interfaces_Example\obj\Debug\Interfaces_Example.csprojResolveAssemblyReference.cache
+c:\users\quhct\documents\visual studio 2017\Projects\Interfaces_Example\Interfaces_Example\obj\Debug\Interfaces_Example.csproj.CoreCompileInputs.cache
+c:\users\quhct\documents\visual studio 2017\Projects\Interfaces_Example\Interfaces_Example\bin\Debug\Interfaces_Example.exe.config
+c:\users\quhct\documents\visual studio 2017\Projects\Interfaces_Example\Interfaces_Example\bin\Debug\Interfaces_Example.exe
+c:\users\quhct\documents\visual studio 2017\Projects\Interfaces_Example\Interfaces_Example\bin\Debug\Interfaces_Example.pdb
+c:\users\quhct\documents\visual studio 2017\Projects\Interfaces_Example\Interfaces_Example\obj\Debug\Interfaces_Example.exe
+c:\users\quhct\documents\visual studio 2017\Projects\Interfaces_Example\Interfaces_Example\obj\Debug\Interfaces_Example.pdb
